@@ -1,15 +1,12 @@
 <div class="video-container" style=" position: relative;width: 640px;height: 360px;">
-<!-- <video id="myVideo" width="640" height="360" autoplay muted loop >
-<source src="https://github.com/deepanshu414/deepanshu414/blob/main/3508353683-preview.mp4" type="video/mp4">
-</video> -->
-<img align="right" alt="coding" style="border-radius: 4% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://media.licdn.com/dms/image/D4D12AQFado16iaKgvA/article-cover_image-shrink_720_1280/0/1691644269008?e=2147483647&v=beta&t=PCOwKv8J9Bp4Gt_Qet0gvQj9q4YPm2rWrmOs4pJ1gwo">
+<!-- <img  alt="coding" width="100%"  style="border-radius: 4% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://media.licdn.com/dms/image/D4D12AQFado16iaKgvA/article-cover_image-shrink_720_1280/0/1691644269008?e=2147483647&v=beta&t=PCOwKv8J9Bp4Gt_Qet0gvQj9q4YPm2rWrmOs4pJ1gwo"> -->
 <div class="text-overlay" sytle=" position: absolute;top: 70%;left: 50%;transform: translate(-50%, -50%);z-index: 1;text-align: center;background-color: rgba(0, 0, 0, 0.5);color: white;padding: 20px;border-radius: 10px;">
-<img src="your_image_url.jpg" alt="Image" style="width: 100px;height: auto;margin-bottom: 10px;display: inline-block;">
-<p style="display: inline-block;">Computer Science Engerring<hr>Deepanshu</p>
+<!-- <img src="your_image_url.jpg" alt="Image" style="width: 100px;height: auto;margin-bottom: 10px;display: inline-block;">
+<p style="display: inline-block;">Computer Science Engerring<hr>Deepanshu</p> -->
 </div>
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+;I'm+Deepanshu&font=Fira%40Code&center=true&width=380&height=150&duration=4000&pause=800">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+;I'm+Deepanshu&font=Fira%40&center=true&width=380&height=150&duration=4000&pause=800">
 </h1>
 <h3 align="center">A passionate Software engineering from India</h3>
 <img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -23,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-antil-865508263" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-antil-865508263" height="30" width="40"  /></a>
 <a href="https://instagram.com/divyansh_antil4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh_antil4" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepanshuantil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshuantil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deepanshuantil41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshuantil41" height="30" width="40" /></a>

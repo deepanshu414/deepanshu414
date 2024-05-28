@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate Software engineering from India</h3>
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
-- 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://myprojectlist.netlify.app/](https://myprojectlist.netlify.app/)
+- 🌱 I’m currently learning **AI/ML**
+- 👨‍💻 All of my projects are available at [My Project List](https://myprojectlist.netlify.app/)
 
 - 📫 How to reach me **deepanshuantil4113@gmail.com**
 

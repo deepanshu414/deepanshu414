@@ -1,6 +1,15 @@
+<div class="video-container" style=" position: relative;width: 640px;height: 360px;">
+<video id="myVideo" width="640" height="360" autoplay muted loop style="border-radius: 5%;">
+<source src="3508353683-preview.mp4" type="video/mp4">
+</video>
+<div class="text-overlay" sytle=" position: absolute;top: 70%;left: 50%;transform: translate(-50%, -50%);z-index: 1;text-align: center;background-color: rgba(0, 0, 0, 0.5);color: white;padding: 20px;border-radius: 10px;">
+<img src="your_image_url.jpg" alt="Image" style="width: 100px;height: auto;margin-bottom: 10px;display: inline-block;">
+<p style="display: inline-block;">Computer Science Engerring<hr>Deepanshu</p>
+</div>
+</div>
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate Software engineering from India</h3>
-<img align="right" alt="coding" width="400px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **AI/ML**
 - 👨‍💻 All of my projects are available at [My Project List](https://myprojectlist.netlify.app/)

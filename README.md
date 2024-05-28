@@ -1,13 +1,16 @@
 <div class="video-container" style=" position: relative;width: 640px;height: 360px;">
-<video id="myVideo" width="640" height="360" autoplay muted loop style="border-radius: 5%;">
-<source src="3508353683-preview.mp4" type="video/mp4">
-</video>
+<!-- <video id="myVideo" width="640" height="360" autoplay muted loop >
+<source src="https://github.com/deepanshu414/deepanshu414/blob/main/3508353683-preview.mp4" type="video/mp4">
+</video> -->
+<img align="right" alt="coding" style="border-radius: 4% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://media.licdn.com/dms/image/D4D12AQFado16iaKgvA/article-cover_image-shrink_720_1280/0/1691644269008?e=2147483647&v=beta&t=PCOwKv8J9Bp4Gt_Qet0gvQj9q4YPm2rWrmOs4pJ1gwo">
 <div class="text-overlay" sytle=" position: absolute;top: 70%;left: 50%;transform: translate(-50%, -50%);z-index: 1;text-align: center;background-color: rgba(0, 0, 0, 0.5);color: white;padding: 20px;border-radius: 10px;">
 <img src="your_image_url.jpg" alt="Image" style="width: 100px;height: auto;margin-bottom: 10px;display: inline-block;">
 <p style="display: inline-block;">Computer Science Engerring<hr>Deepanshu</p>
 </div>
 </div>
-<h1 align="center">Hi 👋, I'm Deepanshu</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+;I'm+Deepanshu&font=Fira%40Code&center=true&width=380&height=150&duration=4000&pause=800">
+</h1>
 <h3 align="center">A passionate Software engineering from India</h3>
 <img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -35,4 +38,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu414&show_icons=true&locale=en" alt="deepanshu414" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu414&" alt="deepanshu414" /></p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>

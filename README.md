@@ -14,11 +14,14 @@
 <h3 align="left"> Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-antil-865508263" height="30" width="40"  /></a>
-<a href="https://instagram.com/divyansh_antil4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh_antil4" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepanshuantil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepanshuantil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepanshuantil41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshuantil41" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yq4vin9fc5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yq4vin9fc5" height="30" width="40" /></a>
+<a href="https://github.com/deepanshu414">
+<img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+</a>
+<a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepanshu-antil-865508263"/></a>
+<a href="https://instagram.com/divyansh_antil4" target="blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="deepanshu_antil4"/></a>
+<a href="https://www.codechef.com/users/deepanshuantil" target="blank"><img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="deepanshuantil"/></a>
+<a href="https://www.hackerrank.com/deepanshuantil41" target="blank"><img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="deepanshuantil41"/></a>
+<a href="https://www.leetcode.com/yq4vin9fc5" target="blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="yq4vin9fc5"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/deepanshu414/deepanshu414/blob/main/image.gif" width="100%" height="100%" style="opacity: 0.8; border: 2px solid black; margin: 20px;" alt="visit">
+<img align="center" src="" width="100%" height="100%" style="opacity: 0.8; border: 2px solid black; margin: 20px;" alt="visit">
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+;I'm+Deepanshu&font=Fira%40&center=true&width=380&height=150&duration=4000&pause=800">
 </h1>

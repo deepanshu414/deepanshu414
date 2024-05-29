@@ -84,20 +84,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu414&" alt="deepanshu414" /></p>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 <h3 align="left">Statistics:</h3>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">

@@ -1,24 +1,24 @@
 <div class="video-container" style=" position: relative;width: 640px;height: 360px;">
-<!-- <img  alt="coding" width="100%"  style="border-radius: 4% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://media.licdn.com/dms/image/D4D12AQFado16iaKgvA/article-cover_image-shrink_720_1280/0/1691644269008?e=2147483647&v=beta&t=PCOwKv8J9Bp4Gt_Qet0gvQj9q4YPm2rWrmOs4pJ1gwo"> -->
+<img  alt="coding" width="100%"  style="border-radius: 4% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://media.licdn.com/dms/image/D4D12AQFado16iaKgvA/article-cover_image-shrink_720_1280/0/1691644269008?e=2147483647&v=beta&t=PCOwKv8J9Bp4Gt_Qet0gvQj9q4YPm2rWrmOs4pJ1gwo">
 <div class="text-overlay" sytle=" position: absolute;top: 70%;left: 50%;transform: translate(-50%, -50%);z-index: 1;text-align: center;background-color: rgba(0, 0, 0, 0.5);color: white;padding: 20px;border-radius: 10px;">
 <!-- <img src="your_image_url.jpg" alt="Image" style="width: 100px;height: auto;margin-bottom: 10px;display: inline-block;">
 <p style="display: inline-block;">Computer Science Engerring<hr>Deepanshu</p> -->
 </div>
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+;I'm+Deepanshu&font=Fira%40&center=true&width=380&height=150&duration=4000&pause=800">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+;I'm+Deepanshu&font=Fira%40&center=true&width=380&height=150&duration=4000&pause=800">
 </h1>
 <h3 align="center">A passionate Software engineering from India</h3>
 <img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **AI/ML**
-- 👨‍💻 All of my projects are available at [My Project List](https://myprojectlist.netlify.app/)
+🌱 I’m currently learning **AI/ML**<br>
+💬 Ask me about Web Development.<br>
+👨‍💻 All of my projects are available at [My Project List](https://myprojectlist.netlify.app/)<br>
+📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
+⚡ Fun fact **I am funny 😅**<br>
 
-- 📫 How to reach me **deepanshuantil4113@gmail.com**
+<h3 align="left"> Connect with me:</h3>
 
-- ⚡ Fun fact **I am funny 😅**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-antil-865508263" height="30" width="40"  /></a>
 <a href="https://instagram.com/divyansh_antil4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh_antil4" height="30" width="40" /></a>

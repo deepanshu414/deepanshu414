@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **AI/ML**<br>
 💬 Ask me about Web Development.<br>
-👨‍💻 All of my projects are available at [My Project List](https://myprojectlist.netlify.app/)<br>
+👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)<br>
 📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
 ⚡ Fun fact **I am funny 😅**<br>
 

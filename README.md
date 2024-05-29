@@ -12,7 +12,6 @@
 ⚡ Fun fact **I am funny 😅**<br>
 
 <h3 align="left"> Connect with me:</h3>
-
 <p align="left">
 <a href="https://github.com/deepanshu414">
 <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
@@ -46,3 +45,11 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<h3 align="left">Statistics:</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepanshu414&theme=tokyonight" height="190em">
+<img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepanshu414&theme=tokyonight" height="190em">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu414&theme=tokyonight&utcOffset=8" height="190em">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu414&theme=tokyonight" height="190em">
+</div>

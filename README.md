@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     
-| Languages | Frameworks| Hosting|ML |Tools|Competitive-Coding|Databases|Operation-System|Environmant|
+| Languages | Frameworks| Hosting|Machine-Learning |Tools|Competitive-Coding|Databases|Operation-System|Environmant|
 | :----: | :----: | :---: |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=c" /> |<img src="https://skillicons.dev/icons?i=nodejs" />| <img src="https://skillicons.dev/icons?i=github" />| <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height=20px/>| <img src="https://skillicons.dev/icons?i=github" />| <a href="https://www.leetcode.com/yq4vin9fc5" target="blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="yq4vin9fc5"/></a>| <img src="https://skillicons.dev/icons?i=mongodb" />| <img src="https://skillicons.dev/icons?i=windows" />|<img src="https://skillicons.dev/icons?i=vscode" />| 
 |<img src="https://skillicons.dev/icons?i=cpp" />|<img src="https://skillicons.dev/icons?i=anaconda" />|<img src="https://skillicons.dev/icons?i=netlify" />|<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height=20px/> |<img src="https://skillicons.dev/icons?i=powershell" />|<a href="https://www.hackerrank.com/deepanshuantil41" target="blank"><img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="deepanshuantil41"/></a>| <img src="https://skillicons.dev/icons?i=mysql" />|<img src="https://skillicons.dev/icons?i=linux" />||

@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414.deepanshu414" />
-<img align="center" src="https://github.com/deepanshu414/deepanshu414/blob/main/image.gif" width="100%" height="100%" style="opacity: 0.8; border: 2px solid black; margin: 20px;" alt="visit">
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+;I'm+Deepanshu&font=Fira%40&center=true&width=380&height=150&duration=4000&pause=800">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepanshu+Antil;" />
 </h1>
 <h3 align="center">A passionate Software engineering from India</h3>
 <img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

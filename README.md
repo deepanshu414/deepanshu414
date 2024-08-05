@@ -10,9 +10,11 @@
 👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)<br>
 📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
 ⚡ Fun fact **I am funny 😅**<br>
-
-<h3 align="left"> Connect with me:</h3>
+<br>
 <p align="left">
+    <a href="mailto:deepanshuantil4113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 <a href="https://github.com/deepanshu414">
 <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
 </a>
@@ -22,14 +24,14 @@
 <a href="https://www.hackerrank.com/deepanshuantil41" target="blank"><img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="deepanshuantil41"/></a>
 <a href="https://www.leetcode.com/yq4vin9fc5" target="blank"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="yq4vin9fc5"/></a>
 </p>
-
+<br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r,bash,kotlin" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,mysql,flask,docker" />
   <img src="https://skillicons.dev/icons?i=php,qt,linux,cpp" /><br>
 </div>
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepanshu414&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -37,7 +39,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deepanshu414&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<br>
 <h2 align="center">⚡ Statistics ⚡</h2>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">
@@ -46,7 +48,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu414&theme=tokyonight&utcOffset=8" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu414&theme=tokyonight" height="190em">
 </div>
-
+<br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>

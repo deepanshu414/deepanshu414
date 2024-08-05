@@ -1,8 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414.deepanshu414" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepanshu+Antil;" />
 </h1>
-<h3 align="center">A passionate Software engineering from India</h3>
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
+[![GitHub Issues](https://img.shields.io/github/issues/deepanshu414/deepanshu414)](https://github.com/deepanshu414/deepanshu414)
+[![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/deepanshu414)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
+</div>
 <img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🌱 I’m currently learning **AI/ML**<br>
@@ -11,7 +16,7 @@
 📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
 ⚡ Fun fact **I am funny 😅**<br>
 <br>
-<p align="left">
+<p align="center">
     <a href="mailto:deepanshuantil4113@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -32,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=php,qt,linux,cpp" /><br>
 </div>
 <br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Summary </h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepanshu414&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=deepanshu414&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -40,7 +45,7 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deepanshu414&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
-<h2 align="center">⚡ Statistics ⚡</h2>
+<h2 align="center">Statistics :bar_chart:</h2>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepanshu414&theme=tokyonight" height="190em">

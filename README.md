@@ -1,8 +1,6 @@
 <div align="right">
 
 [![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
-[![GitHub Issues](https://img.shields.io/github/issues/deepanshu414/deepanshu414)](https://github.com/deepanshu414/deepanshu414)
-[![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/deepanshu414)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
 </div>
 <h1 align="center">

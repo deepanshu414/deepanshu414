@@ -1,21 +1,12 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepanshu+Antil;" />
-</h1>
-<div align="center">
+<div align="right">
 
 [![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
 [![GitHub Issues](https://img.shields.io/github/issues/deepanshu414/deepanshu414)](https://github.com/deepanshu414/deepanshu414)
 [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/deepanshu414)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
 </div>
-<img align="right" alt="coding" width="350px" style="border-radius: 40% box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **AI/ML**<br>
-- 💬 Ask me about Web Development.<br>
-- 👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)<br>
-- 📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
-- ⚡ Fun fact **I am funny 😅**<br>
-<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepanshu+Antil;" />
 <p align="center">
     <a href="mailto:deepanshuantil4113@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -23,6 +14,15 @@
 <a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepanshu-antil-865508263"/></a>
 <a href="https://instagram.com/divyansh_antil4" target="blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="deepanshu_antil4"/></a>
 </p>
+    </h1>
+<img align="right" alt="coding" width="350px" style="border-radius: 40% ;filter:drop_box(0 4px 8px rgba(0,0,0,0.2));margin:0;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **AI/ML**<br>
+- 💬 Ask me about Web Development.<br>
+- 👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)<br>
+- 📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
+- ⚡ Fun fact **I am funny 😅**<br>
+<br>
 <br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

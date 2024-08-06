@@ -48,7 +48,8 @@
   <br/>
   <img width=325  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deepanshu414&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deepanshu414/deepanshu414/output/github-contribution-grid-snake.svg" />
+    <h1 align="center">🔥3D Contributions Chart</h1>
+  ![svg](https://github.com/deepanshu414/deepanshu414/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
   <br/><br/><br/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">

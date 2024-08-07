@@ -1,9 +1,13 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+      # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
@@ -11,7 +15,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: deepanshu414/deepanshu414@0.7.0
+      - uses: deepanshu414/deepanshu414@v0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}

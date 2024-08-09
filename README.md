@@ -5,13 +5,6 @@
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepanshu+Antil;" />
-<p align="center">
-    <a href="mailto:deepanshuantil4113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<a href="https://linkedin.com/in/deepanshu-antil-865508263" target="blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepanshu-antil-865508263"/></a>
-<a href="https://instagram.com/divyansh_antil4" target="blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="deepanshu_antil4"/></a>
-</p>
     </h1>
 <img align="right" alt="coding" width="350px" style="border-radius: 40% ;filter:drop_box(0 4px 8px rgba(0,0,0,0.2));margin:0;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

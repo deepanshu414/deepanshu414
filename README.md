@@ -20,6 +20,8 @@
 ## Latest Blog posts
 <a href="https://dev.to/deepanshu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a><br>
 <!-- BLOG-POST-LIST:START -->
+- [.sort method in JavaScript may not sort numbers the way you would expect.](https://dev.to/deepanshu/sort-method-in-javascript-1khg)
+- [Understanding the difference: Primitive Vs Reference Data types in JavaScript.](https://dev.to/deepanshu/understanding-the-difference-primitive-vs-reference-data-types-in-javascript-4pg7)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

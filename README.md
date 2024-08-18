@@ -6,7 +6,6 @@
 <br>
 <img width="100%" alt="fullstack" src="https://github.com/user-attachments/assets/f8c0261f-a38d-4e77-bfb5-6a847526b022">
 <br><br>
-<img align="right" alt="coding" width="350px" style="border-radius: 40% ;filter:drop_box(0 4px 8px rgba(0,0,0,0.2));margin:0;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **AI/ML**<br>
 - 💬 Ask me about Web Development.<br>

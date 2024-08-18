@@ -1,11 +1,10 @@
 <div align="right">
-
+    
 [![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
 </div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepanshu+Antil;" />
-    </h1>
+<br><br>
+<img width="100%" alt="fullstack" src="https://github.com/user-attachments/assets/e6cd18d9-de9b-4109-8300-38af66f72af0"> 
 <img align="right" alt="coding" width="350px" style="border-radius: 40% ;filter:drop_box(0 4px 8px rgba(0,0,0,0.2));margin:0;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **AI/ML**<br>

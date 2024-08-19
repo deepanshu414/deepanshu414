@@ -3,7 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
 <br>
-<img width="100%" alt="fullstack" src="https://github.com/user-attachments/assets/f8c0261f-a38d-4e77-bfb5-6a847526b022">
+<img width="100%" alt="fullstack" src="https://github.com/user-attachments/assets/20a709fd-a67f-42e0-a044-b31e376671fe">
 </div>
 
 

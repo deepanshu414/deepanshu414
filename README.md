@@ -2,10 +2,10 @@
     
 [![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
-</div>
 <br>
 <img width="100%" alt="fullstack" src="https://github.com/user-attachments/assets/f8c0261f-a38d-4e77-bfb5-6a847526b022">
-<br><br>
+</div>
+
 
 - 🌱 I’m currently learning **AI/ML**<br>
 - 💬 Ask me about Web Development.<br>

@@ -10,7 +10,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: JayantGoel001/metrics@master
+        uses:  deepanshu414/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:      
       - name: Personal metrics (detailed)
-        uses: JayantGoel001/metrics@master
+        uses: deepanshu414/metrics@master
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -80,7 +80,7 @@ jobs:
           plugin_posts_limit: 2
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
-          plugin_posts_user: JayantGoel001
+          plugin_posts_user: deepanshu414
           config_timezone: Asia/Kolkata
           plugin_languages_colors: "rainbow"
           plugin_languages_details: bytes-size, percentage

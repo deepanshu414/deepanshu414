@@ -8,7 +8,8 @@ jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
-  
+
+
       - name: Personal metrics
         uses:  deepanshu414/metrics@master
         with:

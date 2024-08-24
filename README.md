@@ -35,6 +35,10 @@
 |<img src="https://skillicons.dev/icons?i=typescript" />||||||||| `
 </div>
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2 align="center"> ⚛️ Github Stats</h2>
 <div align=center>
   <img  height="190em" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepanshu414&count_private=true&theme=react&border_radius=10" alt="streak stats"/>

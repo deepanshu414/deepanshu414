@@ -7,11 +7,11 @@
 </div>
 
 
-- 🌱 I’m currently learning **AI/ML**<br>
-- 💬 Ask me about Web Development.<br>
-- 👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)<br>
-- 📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)<br>
-- ⚡ Fun fact **I am funny 😅**<br>
+- _🌱 I’m currently learning **AI/ML**_<br>
+- _💬 Ask me about Web Development._<br>
+- _👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)_<br>
+- _📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)_<br>
+- _⚡ Fun fact **I am funny 😅**_<br>
 <br>
 <br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
@@ -35,7 +35,10 @@
 |<img src="https://skillicons.dev/icons?i=typescript" />||||||||| `
 </div>
 <br>
-
+<h1 align="center">
+<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong></h1>
+<br><br>
 <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
 
 <!--START_SECTION:waka-->
@@ -117,7 +120,9 @@ Java                     1 repo              ██░░░░░░░░░�
   <br/>
   <img  height="190em" width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deepanshu414&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br>
-    <h1 align="center">🔥3D Contributions Chart</h1>
+    <h1 align="center">Contributions Chart</h1>
+
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu414&theme=react-dark&hide_border=true&area=true)
     
   ![svg](https://github.com/deepanshu414/deepanshu414/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
@@ -128,3 +133,13 @@ Java                     1 repo              ██░░░░░░░░░�
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu414&theme=tokyonight&utcOffset=8" height="190em">
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu414&theme=tokyonight" height="190em">
 </div>
+<br><br>
+<h1 align="center">
+  <img height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
+  <h1 align="center">📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
+</h1>
+
+<h2 align="center">
+  <img width="100%" src="metrics.svg"/>
+  <img src="metrics.detailed.svg" width="100%"/>
+</h2>

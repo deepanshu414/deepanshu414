@@ -37,7 +37,7 @@
 <br>
 <h1 align="center">
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong></h1>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜</strong></h1>
 <br><br>
 <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
 
@@ -133,9 +133,9 @@ Java                     1 repo              ██░░░░░░░░░�
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu414&theme=tokyonight&utcOffset=8" height="190em">
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu414&theme=tokyonight" height="190em">
 </div>
-<br><br>
+
 <h1 align="center">
-  <img height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
+<!--   <img height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>   -->
   <h1 align="center">📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
 </h1>
 

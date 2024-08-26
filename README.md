@@ -138,6 +138,6 @@ Java                     1 repo              ██░░░░░░░░░�
 </h1>
 
 <h2 align="center">
-  <img width="100%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="100%"/>
+  <img align="center" width="70%" src="metrics.svg"/>
+  <img align="center" src="metrics.detailed.svg" width="70%"/>
 </h2>

@@ -34,6 +34,27 @@
 |<img src="https://skillicons.dev/icons?i=r" />|||||||||
 |<img src="https://skillicons.dev/icons?i=typescript" />||||||||| `
 </div>
+
+<h2 align="center"> ⚛️ Github Stats</h2>
+<div align=center>
+  <img  height="190em" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepanshu414&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img  height="190em" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=deepanshu414&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img  height="190em" width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deepanshu414&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br>
+    <h1 align="center">Contributions Chart</h1>
+
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu414&theme=react-dark&hide_border=true&area=true)
+    
+  ![svg](https://github.com/deepanshu414/deepanshu414/blob/main/profile-3d-contrib/profile-season-animate.svg)
+
+  <br/><br/><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepanshu414&theme=tokyonight" height="190em">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepanshu414&theme=tokyonight" height="190em">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu414&theme=tokyonight&utcOffset=8" height="190em">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu414&theme=tokyonight" height="190em">
+</div>
 <br>
 <h1 align="center">
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -110,28 +131,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 26/08/2024 01:45:19 UTC
 <!--END_SECTION:waka-->
-
-<h2 align="center"> ⚛️ Github Stats</h2>
-<div align=center>
-  <img  height="190em" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deepanshu414&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img  height="190em" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=deepanshu414&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img  height="190em" width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deepanshu414&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br>
-    <h1 align="center">Contributions Chart</h1>
-
-  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu414&theme=react-dark&hide_border=true&area=true)
-    
-  ![svg](https://github.com/deepanshu414/deepanshu414/blob/main/profile-3d-contrib/profile-season-animate.svg)
-
-  <br/><br/><br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepanshu414&theme=tokyonight" height="190em">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepanshu414&theme=tokyonight" height="190em">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu414&theme=tokyonight&utcOffset=8" height="190em">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu414&theme=tokyonight" height="190em">
-</div>
-
 <h1 align="center">
 <!--   <img height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>   -->
   <h1 align="center">📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>

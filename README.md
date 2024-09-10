@@ -62,13 +62,15 @@
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.0 kB Used in GitHub's Storage 
+> 📦 76.0 kB Used in GitHub's Storage 
  > 
-> 🏆 679 Contributions in the Year 2024
+> 🏆 681 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -76,6 +78,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                130 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+🌆 Daytime                244 commits         █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                293 commits         ███████████░░░░░░░░░░░░░░   43.34 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Tuesday                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Wednesday                140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Thursday                 108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Saturday                 97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Sunday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -89,7 +130,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 01:51:59 UTC
+ Last Updated on 10/09/2024 01:50:20 UTC
 <!--END_SECTION:waka-->
 <h1 align="center">
 <!--   <img height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>   -->

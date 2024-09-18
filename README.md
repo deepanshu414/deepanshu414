@@ -27,7 +27,7 @@
 |<img src="https://skillicons.dev/icons?i=html" />|<img src="https://skillicons.dev/icons?i=flask" />|<img alt="000webhost" title="000webhost" height="48" width="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_Y0aw1HjCv2Isu-xdQvUUtJhrlyR_dXh9Q&amp;s">| <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" hieght=35px />| <img src="https://skillicons.dev/icons?i=bash" />| <img alt="codechef" title="codechef" height="48" width="48" src="https://cdn.simpleicons.org/codechef">||||
 |<img src="https://skillicons.dev/icons?i=css" />|<img src="https://skillicons.dev/icons?i=bootstrap" />|<img alt="pythonwhere" title="pythonwhere" height="48" width="48" src="https://cdn.simpleicons.org/pythonanywhere"> |||||||
 |<img src="https://skillicons.dev/icons?i=java" />|<img src="https://skillicons.dev/icons?i=react" />||||||||
-|<img src="https://skillicons.dev/icons?i=javascript" />|||||||||
+|<img src="https://skillicons.dev/icons?i=javascript" />|<img src="https://skillicons.dev/icons?i=django" />||||||||
 |<img src="https://skillicons.dev/icons?i=python" />|||||||||
 |<img src="https://skillicons.dev/icons?i=php" />|||||||||
 |<img src="https://skillicons.dev/icons?i=kotlin" />|||||||||

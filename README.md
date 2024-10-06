@@ -132,12 +132,4 @@ HTML                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 06/10/2024 02:01:09 UTC
 <!--END_SECTION:waka-->
-<h1 align="center">
-<!--   <img height="70" width="70" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>   -->
-  <h1 align="center">📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
-</h1>
 
-<h2 align="center">
-  <img align="center" width="70%" src="metrics.svg"/>
-  <img align="center" src="metrics.detailed.svg" width="70%"/>
-</h2>

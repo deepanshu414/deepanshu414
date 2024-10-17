@@ -46,7 +46,7 @@
 
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu414&theme=react-dark&hide_border=true&area=true)
     
-  ![svg](https://github.com/deepanshu414/deepanshu414/blob/main/profile-3d-contrib/profile-season-animate.svg)
+  ![svg](https://github.com/deepanshu414/deepanshu414/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
 
   <br/><br/><br/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu414&theme=tokyonight" height="190em">

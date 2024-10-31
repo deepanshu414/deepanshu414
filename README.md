@@ -4,7 +4,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
 <br>
 
-<img width="100%" alt="software developer" src="https://github.com/user-attachments/assets/4c3db34f-b307-40c5-86ba-07b078f55fbb" />
+<img src="https://github.com/user-attachments/assets/4c3db34f-b307-40c5-86ba-07b078f55fbb" width="100%" alt="software developer" />
 
 </div>
 

@@ -5,9 +5,9 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/4c3db34f-b307-40c5-86ba-07b078f55fbb" width="100%" alt="software developer" />
-
+<br>
 </div>
-
+<br>
 
 - _🌱 I’m currently learning **AI/ML**_<br>
 - _💬 Ask me about Web Development._<br>

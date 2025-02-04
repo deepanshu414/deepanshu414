@@ -12,7 +12,6 @@
 
 - _🌱 I’m currently learning **AI/ML**_<br>
 - _💬 Ask me about Web Development._<br>
-- _👨‍💻 All of my projects are available at [Here!](https://myprojectlist.netlify.app/)_<br>
 - _📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)_<br>
 - _⚡ Fun fact **I am funny 😅**_<br>
 <br>

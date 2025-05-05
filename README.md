@@ -1,6 +1,5 @@
 <div align="right">
     
-[![GitHub Stars](https://img.shields.io/github/stars/deepanshu414)](https://github.com//deepanshu414)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepanshu414" />
 <br>
 

@@ -9,10 +9,9 @@
 </div>
 <br>
 
-- _🌱 I’m currently learning **AI/ML**_<br>
-- _💬 Ask me about Web Development._<br>
-- _📫 How to reach me [Mail](mailto:deepanshuantil4113@gmail.com)_<br>
-- _⚡ Fun fact **I am funny 😅**_<br>
+- _🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴀɪ/ᴍʟ**_<br>
+- _💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ._<br>
+- _📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [Mail](mailto:deepanshuantil4113@gmail.com)_<br>
 <br>
 <br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
